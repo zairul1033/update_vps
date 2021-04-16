@@ -42,8 +42,8 @@ then
    echo "[+]                                       [+]"
    echo "[+]  The script is for premium user only  [+]"
    echo "[+]           Please contact us           [+]"
-   echo "[+]       Whatsapp : +601119800265        [+]"
-   echo "[+]         Telegram : @kaselurk          [+]"
+   echo "[+]       Whatsapp : NONE                 [+]"
+   echo "[+]         Telegram : @KENZOTELCO        [+]"
    echo "[+]                                       [+]"
    echo "[+]=======================================[+]"
    exit 1
