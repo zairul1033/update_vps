@@ -22,7 +22,7 @@ CHECKING YOUR IP
 sleep 3
 clear
 # check IP Register
-wget --quiet -O iplist.txt wget --quiet -O iplist.txt https://raw.githubusercontent.com/zairul1033/update_vps/main/Ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/zairul1033/update_vps/main/Ip.txt
 iplist="iplist.txt"
 lines=`cat $iplist`
 
